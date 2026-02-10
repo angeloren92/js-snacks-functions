@@ -14,3 +14,24 @@ Risolvere il quarto snack nella cartellina 05 - bonus
 
 Buon divertimento e confermate lettura come al solito :babyyoda: 
 >
+**************************************************************************************************************************
+Le Memorie di Angelo [10.02.2026] comprensivo di [09.02.2026]
+    -Ieri sono state introdotte le funzioni e ripassate oggi con diversi esercizi
+    -Analizzato i diversi scope delle variabili
+        .global 
+        .block
+        .function
+    -Una funziona deve essere 'un mondo a parte' e le variabili dichiarate devono lavorare nel loro interno, in maniera che la funzione possa essere richiamata in qualsiasi momento senza essere legata a variabili globali, il che diventerebbe un problema di gestione e di perdita delle proprietà della funzione stessa
+    -Parametri, sono 'i contenitori di valori' delle funzioni, esistono in maniera astratta per la funzione stessa
+    -Argomenti, sono i valori che vengono passati ai parametri per lavorare
+    -Nomenclatura di variabili/funzioni chiare, devono essere parlanti in modo da riuscire a capire di cose si tratta anche da colleghi/esterni che non hanno scritto direttamente il codice
+    -Le funzioni, nella dichiarazione classica, sono soggette a Hoisting, ossia funzionano a prescindere dalla loro posizione, potrebbero trovarsi anche alla fine del documento.
+    -Arrow function, forma contratta per le funzioni. Non sono soggette a Hoisting, e leggibili sono dopo la dichiarazione della funzione. 
+        .parola_chiave nome_variabile = (parametro/parametri) => {blocco di codice}
+            -se è un singolo parametro e il blocco di codice è in una riga, non mettiamo le parentesi
+            -se scriviamo la forma contratta, possiamo anche evitare di scrivere il return, nella forma 'in riga', senza le parentesi graffe, restituisce automaticamente il valore 
+    -Abbiamo combinato le diverse logiche che abbiamo imparato ad oggi con cicli, if/else, function, array e via dicendo, lavorando nel pomeriggio su diversi esercizi, scrivendo sia in maniera classica, le funzioni, piuttosto che nella versione arrow function, contratta.
+    -Ho consolidato l'uso dello switch, apllicandolo nell'esercizio delle vocali, analizzando una variabile nelle diverse casistiche
+    -Consolidato l'utilizzo della condizione(senza IF, con restituzione valore booleano), e l'operatore ternario per contrarre una logica semplice su una riga
+
+    -Abbiamo capito che per continuare a studiare il JS serve una buona dose di pazzia, mischiata ad alcolismo e dipendenza da zucchero, pronti per le prossime analisi di sangue e igiene mentale ^_^
