@@ -6,7 +6,7 @@ const names = ["Anna", "Luca", "Marco", "Adele", "Laura", "Alessandra"];
 // Dichiara la funzione qui.
 /**
  * ## Find the words with the first letter
- * @param {arrow} arr - inserisci una arrow con delle stringhe 
+ * @param {array} arr - inserisci una arrow con delle stringhe 
  * @param {string} initial - inserisci la lettera-iniziale da ricercare nell'arrow
  * @returns restituisce gli elementi dell'arrow che contengono come iniziale la lettera inserita
  */
